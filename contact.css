@@ -1,0 +1,40 @@
+
+.center {
+    font-family: serif;
+    text-align: center;
+}
+
+h4.demo {
+    font-family: serif;
+    text-align: center;
+}
+
+h1.example {
+    background-color: darkgray;
+    font-family: serif;
+    text-align: center;
+}
+
+.color {
+    background-color: aliceblue;
+}
+
+.enjoy {
+    text-align: center;
+    font-family: serif;
+}
+
+.image {
+    height: 400px;
+    width: 800px;
+
+}
+footer {
+    background-color: orange;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}

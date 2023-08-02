@@ -1,0 +1,49 @@
+   .center {
+       font-family: serif;
+       text-align: center;
+   }
+
+   h4.demo {
+       font-family: serif;
+       text-align: center;
+   }
+
+   h1.example {
+       background-color: white;
+       font-family: serif;
+       text-align: center;
+   }
+
+   .color {
+       background-color: aliceblue;
+   }
+
+   .bgimage {
+       height: 150vh;
+       background: url('img.jpg');
+       opacity: 0.7;
+       background-size: cover;
+       position: relative;
+   }
+
+   .hero_title {
+       font-size: 4.5rem;
+   }
+
+   .hero_desc {
+       font-size: 2rem;
+   }
+
+   .hero-text {
+       text-align: left;
+       position: absolute;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       color: red;
+   }
+
+   .enjoy {
+       text-align: center;
+       font-family: serif;
+   }

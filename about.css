@@ -1,0 +1,61 @@
+.myform {
+    padding: 2px;
+    border: 1px grey dotted;
+    margin: 2px;
+    background: #ccc;
+}
+
+.center {
+    font-family: serif;
+    text-align: center;
+}
+
+h4.demo {
+    font-family: serif;
+    text-align: center;
+}
+
+h1.example {
+    background-color: darkgray;
+    font-family: serif;
+    text-align: center;
+}
+
+.color {
+    background-color: aliceblue;
+}
+
+.bgimage {
+    height: 180vh;
+    background: url('img.jpg');
+    opacity: 0.9;
+    background-size: cover;
+    position: relative;
+}
+
+.hero_title {
+    font-size: 4.5rem;
+}
+
+.hero_desc {
+    font-size: 2rem;
+}
+
+.hero-text {
+    text-align: left;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(10, 10, 9);
+}
+
+    .first {
+
+        font-family: serif;
+    }
+
+    .second {
+        text-align: center;
+        font-family: serif;
+    }
